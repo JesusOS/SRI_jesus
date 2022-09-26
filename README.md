@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # SRI_jesus
 2ASIR. Módulo SRI.
-=======
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -198,4 +196,3 @@ Project Link: [https://github.com/Rick-Sanchez-C/AutoInterfaces](https://github.
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
->>>>>>> be72f65 (Update README.md)
