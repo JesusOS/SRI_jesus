@@ -34,4 +34,4 @@ if(my_gateways.__contains__(gateway)):
     ip= getipfromgateway(gateway)
     print(f"Asignando IP: {ip}")
     setIpAddr('ens33', ip,gateway)
-print("Modificado por Jesus2")
+print("Modificado por Jesus,26/09/2022")
